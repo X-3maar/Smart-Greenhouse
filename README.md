@@ -11,6 +11,5 @@ I started by making a 3d design for the greenhouse and inserted the required mod
 After finishing the complex parts in the projects, I made the firmware for to control the sensors and collect readings to manage the actuators based on the collected data.
 Finally, I started collecting materials and searched for the best resources for electronic modules and printing. and found the best cost efficient materials.
 
-## Total Cost : 70$
-
-Note: This is not a PCB project so it has only a schematic as a wiring diagram.
+### Note 
+This is not a PCB project so it has only a schematic as a wiring diagram.
